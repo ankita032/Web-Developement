@@ -1,0 +1,19 @@
+body{
+	background-image : url("header.jpg");
+	background-attachment:fixed;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size : cover;
+}
+
+p{
+	color:white;
+	margin-top: 185px;
+}
+
+.btn{
+	border-radius:70px;
+	margin: 170px 480px;
+}
+
+

@@ -1,0 +1,27 @@
+h1{
+	font : bold Arial;
+	border-bottom : solid;
+	border-right: solid;
+	color : red;
+	box-shadow: 10px 10px 5px grey;
+	border-color:black;
+	margin:10px;
+	padding: 2px;
+}
+
+.container{
+	width : 400px;
+	height : 200px;
+	display : inline-block;
+	flex-wrap : wrap;
+	justify-content: center;
+	
+}
+
+.container:hover{
+	transition:all 1s;
+	transform:rotate(10deg);
+}
+
+
+	
