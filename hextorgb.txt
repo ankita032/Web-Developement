@@ -1,0 +1,8 @@
+let hex = [];
+prompt("Enter a hexadecimal num");
+for(let i=0;i<6;i++)
+	prompt(hex[i]);
+	
+console.log("#" + hex);
+
+let rgb

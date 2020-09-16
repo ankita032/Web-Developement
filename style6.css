@@ -1,0 +1,26 @@
+
+
+h2{
+	font-family : Times New Roman;
+	font-weight : bold;
+	margin-top : 30px;
+	color : black;
+}
+
+.table{
+	table-layout : fixed;
+	width : 40%;
+	height :100%;
+	margin : 30px 320px;
+}
+
+.table .col-sm-4{
+	border-color : black;
+	padding : 30px 0px;
+}
+
+.btn{
+	margin : 0px 480px;
+	width : 10%;
+	font : 20px Times New Roman;
+}
